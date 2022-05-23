@@ -31,11 +31,14 @@ public class Array {
 		sum=sum+a[i];
 		System.out.println(sum);
 	}
-		
-	
-	
-	
 	System.out.println("test123 git code modified");
+	
+		System.out.println("code modified");
+		
+		System.out.println("array practice");
+	
+	
+	
 	
 	
 	
