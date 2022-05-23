@@ -31,7 +31,9 @@ public class Array {
 		sum=sum+a[i];
 		System.out.println(sum);
 	}
+		System.out.println("code modified");
 		
+		System.out.println("array practice");
 	
 	
 	
